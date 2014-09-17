@@ -1,5 +1,3 @@
-[![RelatedCode](http://relatedcode.com/github/header3.png)](http://relatedcode.com)
-
 ## OVERVIEW
 
 ParseChat is a full native iPhone app to create realtime, text based group or private chat with Parse.
